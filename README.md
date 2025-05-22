@@ -22,10 +22,10 @@ This plugin provides three powerful AI generation tools:
 - **Advanced AI model**: Powered by Doubao Seedream 3.0
 - **Customizable parameters** for precise control
 
--** 高质量图像生成**：根据文本描述生成精美图片
--** 多种尺寸选择**：正方形（1024×1024）、纵向（1024×1792）、横向（1792×1024）
--** 先进 AI 模型**：采用豆包 Seedream 3.0
--** 参数可定制**：精确控制生成效果
+-**高质量图像生成**：根据文本描述生成精美图片
+-**多种尺寸选择**：正方形（1024×1024）、纵向（1024×1792）、横向（1792×1024）
+-**先进 AI 模型**：采用豆包 Seedream 3.0
+-**参数可定制**：精确控制生成效果
 
 ### 2. 🎬 Text to Video
 
@@ -37,11 +37,11 @@ This plugin provides three powerful AI generation tools:
 - **Multiple models**: `doubao-seedance-1-0-lite-t2v-250428`
 - **Professional video output** for various use cases
 
--** 视频创作**：从文本提示词生成动态视频
--** 灵活宽高比**：16:9、9:16、4:3、1:1 多种选择
--** 时长可选**：支持 5 秒或 10 秒视频
--** 模型支持** `doubao-seedance-1-0-lite-t2v-250428`
--** 专业输出**：适用于各种使用场景
+-**视频创作**：从文本提示词生成动态视频
+-**灵活宽高比**：16:9、9:16、4:3、1:1 多种选择
+-**时长可选**：支持 5 秒或 10 秒视频
+-**模型支持** `doubao-seedance-1-0-lite-t2v-250428`
+-**专业输出**：适用于各种使用场景
 
 ### 3. 🖼️ Image to Video
 🖼️ 图像生成视频（图生视频）
@@ -52,11 +52,11 @@ This plugin provides three powerful AI generation tools:
 - **Seamless integration** with existing images
 - **Configurable duration** up to 10 seconds
 
--** 静态转动态**：将静态图片转换为动态视频
--** 智能动画**：根据文本提示引导动画效果
--** 自适应比例**：支持自动适配最佳宽高比
--** 无缝集成**：与现有图片完美结合
--** 时长可配**：最长支持 10 秒视频
+-**静态转动态**：将静态图片转换为动态视频
+-**智能动画**：根据文本提示引导动画效果
+-**自适应比例**：支持自动适配最佳宽高比
+-**无缝集成**：与现有图片完美结合
+-**时长可配**：最长支持 10 秒视频
 
 ## 🚀 Quick Start
 
@@ -129,9 +129,9 @@ The plugin is now ready to use in your Dify applications!
 - **Content pipeline**: Combine text→image→video transformations
 - **Quality control**: Set consistent parameters across generations
 
--** 批量内容创建**：按序列生成多个图像 / 视频
--** 内容管道**：组合文本→图像→视频的转换流程
--** 质量控制**：在生成过程中设置一致的参数
+-**批量内容创建**：按序列生成多个图像 / 视频
+-**内容管道**：组合文本→图像→视频的转换流程
+-**质量控制**：在生成过程中设置一致的参数
 
 ### In Agent Applications
 在 Agent 应用内使用
@@ -140,9 +140,9 @@ The plugin is now ready to use in your Dify applications!
 - **Context-aware creation**: Adapts generation based on conversation flow
 - **Multi-modal responses**: Combines text, images, and videos seamlessly
 
--** 智能决策**：智能体自动选择合适的生成工具
--** 上下文感知**：根据对话流程调整生成策略
--** 多模态响应**：无缝结合文本、图像和视频
+-**智能决策**：智能体自动选择合适的生成工具
+-**上下文感知**：根据对话流程调整生成策略
+-**多模态响应**：无缝结合文本、图像和视频
 
 ## ⚙️ Technical Specifications
 ⚙️ 技术规格
@@ -155,8 +155,8 @@ The plugin is now ready to use in your Dify applications!
   - Doubao Seedance 1.0 Lite (`doubao-seedance-1-0-lite-t2v-250428`)
   - Doubao Seaweed (`doubao-seaweed-241128`)
 
--** 图像生成**：豆包 Seedream 3.0（`doubao-seedream-3-0-t2i-250415`）
--** 视频生成**：
+-**图像生成**：豆包 Seedream 3.0（`doubao-seedream-3-0-t2i-250415`）
+-**视频生成**：
   - 豆包 Seedance 1.0 Lite（`doubao-seedance-1-0-lite-t2v-250428`）
 
 ### Output Formats
@@ -166,8 +166,8 @@ The plugin is now ready to use in your Dify applications!
 - **Images**: High-resolution PNG/JPEG
 - **Videos**: MP4 format with configurable duration
 
--** 图像**：高分辨率 PNG/JPEG 格式
--** 视频**：MP4 格式
+-**图像**：高分辨率 PNG/JPEG 格式
+-**视频**：MP4 格式
 
 ### Performance
 性能表现
@@ -176,9 +176,9 @@ The plugin is now ready to use in your Dify applications!
 - **Text to Video**: ~30-90 seconds generation time  
 - **Image to Video**: ~20-60 seconds generation time
 
--** 文生图**：约 5-15 秒生成时间
--** 文生视频**：约 30-90 秒生成时间
--** 图生视频**：约 20-60 秒生成时间
+-**文生图**：约 5-15 秒生成时间
+-**文生视频**：约 30-90 秒生成时间
+-**图生视频**：约 20-60 秒生成时间
 
 ## 🎯 Best Practices
 
@@ -189,9 +189,9 @@ The plugin is now ready to use in your Dify applications!
 - **Use descriptive adjectives**: "vibrant colors", "soft lighting", "cinematic"
 - **Specify the mood**: "peaceful", "dramatic", "whimsical"
 
--** 具体描述**：包含风格、光照、构图等细节
--** 使用形容词**：如 "鲜艳色彩"、"柔和光线"、"电影感"
--** 指定情绪**：如 "宁静"、"戏剧性"、"奇幻"
+-**具体描述**：包含风格、光照、构图等细节
+-**使用形容词**：如 "鲜艳色彩"、"柔和光线"、"电影感"
+-**指定情绪**：如 "宁静"、"戏剧性"、"奇幻"
 
 ### Example Prompts
 示例提示词
@@ -209,9 +209,11 @@ Image to Video: "Add subtle movement to this landscape - swaying trees, flowing 
 图生视频："为这个风景添加微妙的动感 - 树叶摇摆、流水潺潺、云朵飘移"
 
 ## 🔧 Troubleshooting
+
 🔧 故障排除
 
 ### Common Issues
+
 常见问题
 
 - **API Key Invalid**: Verify your Volcengine API key and service permissions
@@ -220,9 +222,9 @@ Image to Video: "Add subtle movement to this landscape - swaying trees, flowing 
 - **Model Not Found**: Ensure you're using the correct model identifiers
 
 -**API 密钥无效**：请验证火山引擎 API 密钥和服务权限
--** 生成失败**：检查提示词是否符合内容政策
--** 响应缓慢**：高峰期可能出现延迟，请稍后重试
--** 模型未找到**：确保使用正确的模型标识符
+-**生成失败**：检查提示词是否符合内容政策
+-**响应缓慢**：高峰期可能出现延迟，请稍后重试
+-**模型未找到**：确保使用正确的模型标识符
 
 ### Error Codes
 错误代码
@@ -250,10 +252,18 @@ We welcome contributions! Please feel free to:
 
 ## 📄 License
 
+📄 许可证
+
 This project is licensed under the terms specified in the LICENSE file.
+
+本项目遵循 LICENSE 文件中指定的许可条款。
 
 ---
 
 **Transform your ideas into stunning visuals with the power of AI** ✨
 
 *Built with by Mak J AI Limited*
+
+**用 AI 的力量将创意转化为精彩视觉** ✨
+
+* 由 Mak J AI Limited 构建*
