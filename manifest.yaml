@@ -1,12 +1,12 @@
 author: makjai
 created_at: '2024-09-20T08:03:44.658609186Z'
 description:
-  en_US: Doubao Image API integration for AI image generation by Volcengine/ByteDance.
-  zh_CN: 火山引擎/字节跳动提供的豆包图像 API，用于 AI 图像生成。
+  en_US: Doubao Image/Video API integration for AI image generation by Volcengine.
+  zh_CN: 火山引擎提供的豆包图像 API，用于 AI 图像生成。
 icon: icon.svg
 label:
-  en_US: Doubao Image Generator
-  zh_CN: 豆包图像生成
+  en_US: Doubao Image and Video Generator
+  zh_CN: 豆包图像视频生成器
 meta:
   arch:
   - amd64
