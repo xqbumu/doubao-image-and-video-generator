@@ -262,8 +262,8 @@ This project is licensed under the terms specified in the LICENSE file.
 
 **Transform your ideas into stunning visuals with the power of AI** ✨
 
-*Built with by Mak J AI Limited*
+*Built with by [Mak J AI Limited](mailto:info@makj.ai)*
 
 **用 AI 的力量将创意转化为精彩视觉** ✨
 
-* 由 Mak J AI Limited 构建*
+* 由 [Mak J AI Limited](mailto:info@makj.ai) 构建*
