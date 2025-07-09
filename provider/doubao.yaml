@@ -16,14 +16,14 @@ extra:
   python:
     source: provider/doubao_provider.py
 identity:
-  author: allenwriter
+  author: xqbumu
   description:
     en_US: Doubao (豆包) API integration for AI image and video generation by Volcengine/ByteDance.
     zh_CN: 火山引擎/字节跳动提供的豆包 API，用于 AI 图像和视频生成。
   icon: icon.svg
   label:
-    en_US: Doubao Generator
-    zh_CN: 豆包生成器
+    en_US: Doubao Generator Diy
+    zh_CN: 豆包生成器 Diy
   name: doubao
   tags:
   - image
