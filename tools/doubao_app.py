@@ -65,6 +65,7 @@ class DoubaoApp:
                 "size": size,
                 "response_format": response_format,
                 "n": 1  # 生成图片数量
+                "watermark": watermark,
             }
             
             # 添加可选参数（如果不是None）
